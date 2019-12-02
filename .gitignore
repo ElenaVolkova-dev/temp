@@ -1,4 +1,4 @@
 *.log
-/out
+target/
 Java.iml
 .idea
